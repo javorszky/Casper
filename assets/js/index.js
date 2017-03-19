@@ -1,5 +1,7 @@
 /**
  * Main JS file for Casper behaviours
+ *
+ * The minified file is only for convenience. The actual javascript is copied as-is into default.hbs!
  */
 
 /* globals jQuery, document */
