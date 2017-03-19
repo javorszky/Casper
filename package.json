@@ -1,6 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "name": "Custom Casper for javorszky.co.uk",
+    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive. Slightly modified for my needs",
     "demo": "https://demo.ghost.io",
     "version": "1.3.6",
     "engines": {
